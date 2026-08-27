@@ -47,6 +47,7 @@
 |---------|--------------|-------|
 | 🔗 **[fabric-notebook-dependency-mapper](https://github.com/tiberiofavaretto/fabric-notebook-dependency-mapper)** | Parses Spark/Fabric notebooks, extracts table lineage, and builds the execution DAG (`runMultiple`) | Python · Fabric · PySpark |
 | 🔀 **[sql-schema-sync](https://github.com/tiberiofavaretto/sql-schema-sync)** | Detects schema drift between a source and a destination table and generates/applies the aligning `ALTER` statements | Python · SQL · DuckDB |
+| 🧹 **[synapse-link-cleanup](https://github.com/tiberiofavaretto/synapse-link-cleanup)** | Cleans up old Synapse Link (Dataverse / D365 F&O) ADLS export folders, keeping the current and previous month — dry-run by default | Python · Azure · ADLS |
 | 🏈 **[nfl-stats-dbt](https://github.com/tiberiofavaretto/nfl-stats-dbt)** | Analytics engineering with dbt: staging→marts, tests, docs, CI — runs fully locally on DuckDB | dbt · SQL · DuckDB |
 | 🟡 **[fabric-retail-analytics](https://github.com/tiberiofavaretto/fabric-retail-analytics)** | End-to-end Microsoft Fabric: PySpark notebooks, Data Pipeline, Gold star schema & a Power BI semantic model | Microsoft Fabric · PySpark · Power BI |
 
